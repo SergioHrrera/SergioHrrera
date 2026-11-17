@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sergio Herrera</h1>
 <p align="center">
-  <b>Systems Engineering Student · Frontend Developer</b><br>
+  <b>Systems Engineering Student · Frontend Development</b><br>
   Barranquilla, Colombia
 </p>
 
